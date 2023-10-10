@@ -1,0 +1,10 @@
+@import '../../lib/styles/abstracts/_variables.scss';
+@import '../../lib/styles/abstracts/_mixins.scss';
+
+.message {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 5vh auto;
+    line-height: 1;
+}
